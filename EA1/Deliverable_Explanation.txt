@@ -2,3 +2,17 @@ Student Name: Yusuf Bilgich
 Student ID: 11848141
 
 Assignment: EA-1
+
+This deliverable includes courses completed on TryHackMe platform:
+Introduction to Cyber Security
+and
+Network Fundamentals
+
+These courses provide instructions on the fundamentals of cyber security, offensive security, defensive security. career options in cyber security field, networking fundamentals,
+OSI Models, Packets & Frames, and extending networks.
+
+This pathway is specifically curated towards practicing for the industry recognized certificate SEC0 which tests skills such as Computer Fundamentals, Operating System Fundamentals,
+Software Basics, Network Communication, Web & Internet Foundations, and Security Awareness. Completing this pathway helps me gain a better understanding if the requirements to
+achieve the SEC0 certification.
+
+Provided in this Extracurricular Activity 1 folder are this deliverable explanation, Certificate of completion of the above programs, and a reflection markdown report.
