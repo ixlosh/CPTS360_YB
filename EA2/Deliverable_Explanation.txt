@@ -1,0 +1,22 @@
+Student Name: Yusuf Bilgich
+Student ID: 11848141
+
+Assignment: EA-2
+
+This deliverable includes courses completed on TryHackMe platform:
+DNS in Detail
+and
+Inside a Computer System
+
+The main goal of this learning pathway is to eventually complete the SEC0 certification. SEC0 is an industry recognized cybersecurity certificate showing the candidates'
+proficiency in fundamental cyber security subdivisions such as Computer Fundamentals, Operating Sytem Fundamentals, Network Communications, and Web & Internet Foundations.
+SEC0 would be a strong boost to my resume and will help me secure an internship in the future.
+
+As part of this goal, I have completed the next section of certification exam readiness pathway: "DNS in Detail" and "Inside a Computer System." DNS in detail covers
+topics such as Domain levels within the hierarcy, DNS Record Types, DNS requests, and DNS basics. Understanding DNS is a critical step in understanding the overall
+architecture of computer networking, which plays a substantial role in compupter functioning in today's world.
+Second part I've completed is called "Inside a Computer System," and it covers topics around computer hardware, power-up sequence, and computer as a castle concept.
+To ensure the system is working as intented, it is essential that we have an understanding of the physical components making up that system, otherwise referred to as
+the hardware of the system. This section focuses on the physical components inside the computer.
+
+Provided in this Extracurricular Activity 2 folder are this deliverable explanation and Certificate of completions for the aforementioned programs. /243 words

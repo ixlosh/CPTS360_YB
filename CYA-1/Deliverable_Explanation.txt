@@ -1,0 +1,28 @@
+Student Name: Yusuf Bilgich
+Student ID: 11848141
+
+Assignment: CYA-1
+
+This deliverable includes Resume and Cover letter specifically tailored to apply for the Classroom Tech Support position at PIAT (Pullman Integrated Academic Technologies).
+
+-Reflection-
+This semester, I have applied and was consequently hired as a Classroom Tech Support at PIAT, WSU's Academic Technology help department.
+I saw this as a great opportunity to extend my resume and add more field-relevant job experience to improve my chances at getting hired at
+my dream job in the future.
+
+At PIAT, our main goal includes covering phones where we usually get calls from the instructors from all over the campus who are having technical
+difficulty operating the technological devices situated in our classrooms. We have access to certain portals such as RealVNC where we have real-time
+access to computers and can remote in and control the devices, Ovrc which controls the outlets devices are plugged in via LAN to manually reboot
+without the need to be there in person, Jira, our ticketing system where we can manage interdepartmental requests and track our progress for ongoing
+problems reported, and many other tools to help us keep the tech in our campus functioning.
+
+This position is also very important to me because it is not only helping me improve the skills directly related with my field, but it also helps with
+soft skills, such as team communication and leadership attributes. Over the spring break, I was scheduled for 40 hours full-time work, and I had the
+chance to lead my own team. Even though I'm not exactly a veteran at this position, because of my high sense of responsibility and taking on more tasks
+I caught the attention of my supervisor, and she decided to give me an elevated position where I had the opportunity to lead a team. I was calling the
+shots on what to do and how to proceed when they faced certain problems they couldn't resolve. I value experiences like this highly and I'm glad to have
+a chance to prove myself when put on the spot like that.
+
+This adventure started with me applying for it thanks to the guidelines of this course, otherwise I may have never looked into opportunities available
+on campus. I already have plans for the next CYA where I actually plan to apply for an internship at my dream job, and thanks to the great experience
+I'm having at my current job, I feel like I've got the odds in my favor! /385 words
